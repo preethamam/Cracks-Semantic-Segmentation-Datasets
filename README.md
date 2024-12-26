@@ -1,5 +1,5 @@
 # Cracks semantic segmentation datasets
-A repository for concrete, pavement and walls/mixed surface cracks semantic segmentation datasets.
+A repository for concrete, pavement, walls/mixed and masonry/bricks surface cracks semantic segmentation datasets.
 
 ## Datasets examples
 | No. | Dataset name | Cracks images | Ground-truth images | Download link |

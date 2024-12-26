@@ -1,5 +1,5 @@
 # Cracks semantic segmentation datasets
-A repository for concrete, pavement, walls/mixed and masonry/bricks surface cracks semantic segmentation datasets.
+Cracks are the defects formed by cyclic loading, fatigue, shrinkage, creep, and so on. In addition, they represent the deterioration of the structures over some time. Therefore, it is essential to detect and classify them according to the condition grade at the early stages to prevent the collapse of structures. Deep learning and machine learning-based supervised semantic segmentation methods requires carefully annotated images of cracks. This is a repository of human annotated semantic segmentation datasets of concrete, pavement, walls/mixed and masonry/bricks cracks surface. I collected these datasets during my Ph.D. days and used many for my dissertation.
 
 ## Datasets examples
 | No. | Dataset name | Cracks images | Ground-truth images | Download link |
@@ -25,6 +25,9 @@ month = {December},
 note = {Condition assessment, Crack localization, Crack change detection, Synthetic crack generation, Sewer pipe condition assessment, Mechanical systems defect detection and quantification}
 }
 ```
+
+# Acknowledgements
+I thank Shravan Ravi, Vinay Hegde, and Milind Bhat (chronological order) for their efforts in the collection and preparation of the crack and non-crack image database around the University of Southern California (USC) campus at Los Angeles, USA. In addition, I thank Ryan, Youngseok and Wisepl Private Limited Data (chronological order) for their conscientious efforts in creating for crack semantic segmentation annotations.
 
 # Feedback
 Please rate and provide feedback for the further improvements.

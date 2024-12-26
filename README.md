@@ -11,6 +11,21 @@ A repository for concrete, pavement, walls/mixed and masonry/bricks surface crac
 | 5 | Cracks-1K (1280 x 720) | ![](assets/Dataset_5_Cracks-1K_(1280x720)_crack.png) | ![](assets/Dataset_5_Cracks-1K_(1280x720)_gt.png) | [Cracks-1K (1280 x 720)](https://1drv.ms/f/c/49b23bc11eecd6a8/Eias7mEICpdOju5slI7_mpwBT-T73E8mAmu6N_vVYXQG8Q?e=dXBKIm) |
 | 6 | Cracks-1K (448 x 252) | ![](assets/Dataset_6_Cracks-1K_(448x252)_crack.png) | ![](assets/Dataset_6_Cracks-1K_(448x252)_gt.png) | [Cracks-1K (448 x 252)](https://1drv.ms/f/c/49b23bc11eecd6a8/EgXYLiqrSNdKtzWPbJp3mQQBZN-xlivQHVCfzq8jxA-jkQ?e=8xqBD2) |
 
+# Citation
+All cracks semantic segmentation datasets are available to the public. If you use any of these datasets in your research, please use the following BibTeX entry to cite:
+```bibtex
+@PhdThesis{preetham2021vision,
+author = {{Aghalaya Manjunatha}, Preetham},
+title = {Vision-Based and Data-Driven Analytical and Experimental Studies into Condition Assessment and Change Detection of Evolving Civil, Mechanical and Aerospace Infrastructures},
+school =  {University of Southern California},
+year = 2021,
+type = {Dissertations & Theses},
+address = {3550 Trousdale Parkway Los Angeles, CA 90089},
+month = {December},
+note = {Condition assessment, Crack localization, Crack change detection, Synthetic crack generation, Sewer pipe condition assessment, Mechanical systems defect detection and quantification}
+}
+```
+
 # Feedback
 Please rate and provide feedback for the further improvements.
 

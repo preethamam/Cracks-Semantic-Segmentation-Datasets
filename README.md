@@ -1,21 +1,22 @@
 # Cracks semantic segmentation datasets
 Cracks are the defects formed by cyclic loading, fatigue, shrinkage, creep, and so on. In addition, they represent the deterioration of the structures over some time. Therefore, it is essential to detect and classify them according to the condition grade at the early stages to prevent the collapse of structures. Deep learning and machine learning-based supervised semantic segmentation methods requires carefully annotated images of cracks. This is a repository of human annotated semantic segmentation datasets of concrete, pavement, walls/mixed and masonry/bricks cracks surface. I collected these datasets during my Ph.D. days and used many for my dissertation.
 
+<table>
+  <tr>
+    <th style="width: 100px;">Short Column</th>
+    <th style="width: 300px;">This column has more content</th>
+  </tr>
+  <tr>
+    <td>Yes</td>
+    <td>Some longer explanation that takes more space.</td>
+  </tr>
+  <tr>
+    <td>No</td>
+    <td>Another piece of text that expands the width of the column.</td>
+  </tr>
+</table>
+
 ## Datasets examples
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
 | No. | Dataset name | Cracks images | Ground-truth images | Remarks |
 |:--|:--|:-------------------------------------------------------------|:---------------------------------------------------------------------|:----|
 | 1 | [Cracks-200](https://1drv.ms/f/c/49b23bc11eecd6a8/EhR2i1qbyhlKn6JmjTVdWQ4BVUcKofT80zNf12E0tDVgCw?e=DYmZzs) | ![](assets/Dataset_1_Cracks-200_crack.png) | ![](assets/Dataset_1_Cracks-200_gt.png) | Conrete surfaces, easy and a low-resolution dataset. I call it Cracks-101 dataset. |

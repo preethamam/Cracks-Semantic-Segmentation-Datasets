@@ -5,11 +5,11 @@ Cracks are the defects formed by cyclic loading, fatigue, shrinkage, creep, and 
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed; text-align: left;">
     <thead>
         <tr>
-            <th style="width: 2%; word-break: break-word;">No.</th>
-            <th style="width: 2%; word-break: break-word;">Dataset Name</th>
-            <th style="width: 47%; word-break: break-word;">Cracks Images</th>
-            <th style="width: 47%; word-break: break-word;">Ground-Truth Images</th>
-            <th style="width: 2%; word-break: break-word;">Remarks</th>
+            <th style="width: 0.5%; word-break: break-word;">No.</th>
+            <th style="width: 0.5%; word-break: break-word;">Dataset Name</th>
+            <th style="width: 48%; word-break: break-word;">Cracks Images</th>
+            <th style="width: 48%; word-break: break-word;">Ground-Truth Images</th>
+            <th style="width: 3%; word-break: break-word;">Remarks</th>
         </tr>
     </thead>
     <tbody>

@@ -47,28 +47,7 @@ Cracks are the defects formed by cyclic loading, fatigue, shrinkage, creep, and 
             <td><img src="assets/Dataset_5_Cracks-1K_(1280x720)_crack.png" alt="Crack Image" style="max-width: 100%;"></td>
             <td><img src="assets/Dataset_5_Cracks-1K_(1280x720)_gt.png" alt="Ground Truth Image" style="max-width: 100%;"></td>
             <td>Concrete surfaces dataset. It has some thin, medium, and large-sized cracks. Overall, clean and high-resolution dataset.</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td><a href="https://1drv.ms/f/c/49b23bc11eecd6a8/EgXYLiqrSNdKtzWPbJp3mQQBZN-xlivQHVCfzq8jxA-jkQ?e=8xqBD2">Cracks-1K (448 x 252)</a></td>
-            <td><img src="assets/Dataset_6_Cracks-1K_(448x252)_crack.png" alt="Crack Image"></td>
-            <td><img src="assets/Dataset_6_Cracks-1K_(448x252)_gt.png" alt="Ground Truth Image"></td>
-            <td>Concrete surfaces dataset. It has thin, medium, and large-sized cracks. Same as Cracks-1K (1280 x 720), but with a different resolution manageable for Deep Learning and Machine Learning methods. Overall, clean and high-resolution dataset.</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td><a href="https://1drv.ms/f/c/49b23bc11eecd6a8/Ep-RtzHUbtxGpHH1HtczmZsBbWHFnFdKwp2X5CmHMO2Ipw?e=KjV3UH">Cracks-3K (512 x 512)</a></td>
-            <td><img src="assets/Dataset_7_Cracks-3K_(512x512)_crack.png" alt="Crack Image"></td>
-            <td><img src="assets/Dataset_7_Cracks-3K_(512x512)_gt.png" alt="Ground Truth Image"></td>
-            <td>Concrete and pavement surfaces. It has thin, medium, and large-sized cracks. It has shadows in the middle. Overall, the most texture-diverse and challenging dataset.</td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td><a href="https://1drv.ms/f/c/49b23bc11eecd6a8/Ek_azWXTJltNrWi4vqGy-XMBuNUFhzqxON5c1U3qXBTwNA?e=CYdtxs">Masonry-Brick Cracks 81 (5152x3864)</a></td>
-            <td><img src="assets/Dataset_8_Masonry-Brick_Cracks_81_(5152x3864)_crack.png" alt="Crack Image"></td>
-            <td><img src="assets/Dataset_8_Masonry-Brick_Cracks_81_(5152x3864)_gt.png" alt="Ground Truth Image"></td>
-            <td>Masonry, bricks, and concrete joints dataset. Includes thin, medium, and large-sized cracks. Clean and very high resolution. Use <a href="https://github.com/preethamam/CracksSplitterCropper-Dataset">Cracks cropper algorithm</a> to split large resolution images for Deep Learning and Machine Learning methods.</td>
-        </tr>
+        </tr>        
     </tbody>
 </table>
 

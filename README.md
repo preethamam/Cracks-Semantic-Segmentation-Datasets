@@ -29,7 +29,7 @@ note = {Condition assessment, Crack localization, Crack change detection, Synthe
 ```
 
 # Acknowledgements
-I thank Shravan Ravi, Vinay Hegde, and Milind Bhat (chronological order) for their efforts in the collection and preparation of the crack and non-crack image database around the University of Southern California (USC) campus at Los Angeles, USA. I thank Professor Mohammad Reza Jahanshahi for providing the Cracks-200 raw crack and non-crack images dataset. I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete, pavement, and walls in [Cracks-1.3K]() dataset. In addition, I thank Ryan, Youngseok, Wisepl Private Limited and Zhenghao Li (chronological order) for their conscientious efforts in creating for crack semantic segmentation annotations.
+I thank Shravan Ravi, Vinay Hegde, and Milind Bhat (chronological order) for their efforts in the collection and preparation of the crack and non-crack image database around the University of Southern California (USC) campus at Los Angeles, USA. I thank Professor Mohammad Reza Jahanshahi for providing the Cracks-200 raw crack and non-crack images dataset. I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete, pavement, and walls in [Cracks-1.3K]() dataset. In addition, I thank Ryan, Youngseok, Wisepl Private Limited, Zhenghao Li, and Arjun Sridhar (chronological order) for their conscientious efforts in creating for crack semantic segmentation annotations.
 
 # Feedback
 Please rate and provide feedback for the further improvements.
